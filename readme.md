@@ -11,7 +11,7 @@ Delete tasks
  Save tasks using browser local storage
  Responsive design
 
-How It Works
+## How It Works
 User enters a task in the input field.
 JavaScript captures the input and displays it in the task list.
 Tasks can be marked complete, edited, or deleted.
